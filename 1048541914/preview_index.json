@@ -1,13 +1,19 @@
 {
   "qq_number": "1245823270",
   "group_number": "1048541914",
+  "updated_at": "2026-09-18T04:10:59+00:00",
   "skins": [
     {
       "name": "星月雪熊",
       "file": "星月雪熊.bds",
       "thumb": "星月雪熊.bds_py_26_light_thumb.png",
       "full": "星月雪熊.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "星月雪熊",
+      "file": "星月雪熊.bdi",
+      "thumb": "星月雪熊.bdi_py_26_light_thumb.png",
+      "full": "星月雪熊.bdi_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-09-18T04:10:54+00:00"
+  ]
 }
