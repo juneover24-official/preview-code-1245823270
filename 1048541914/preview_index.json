@@ -1,7 +1,7 @@
 {
   "qq_number": "1245823270",
   "group_number": "1048541914",
-  "updated_at": "2026-09-18T04:11:05+00:00",
+  "updated_at": "2026-09-18T18:44:15+00:00",
   "skins": [
     {
       "name": "星月雪熊",
@@ -14,6 +14,13 @@
       "file": "星月雪熊.bdi",
       "thumb": "星月雪熊.bdi_py_26_light_thumb.png",
       "full": "星月雪熊.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "电子金鱼町 可爱啵",
+      "file": "电子金鱼町可爱啵.bds",
+      "thumb": "电子金鱼町可爱啵.bds_py_26_light_thumb.png",
+      "full": "电子金鱼町可爱啵.bds_py_26_light_thumb.png",
+      "file_id": "1279a083e373726dcbcbed7b1bc64985"
     }
   ]
 }
