@@ -1,7 +1,7 @@
 {
   "qq_number": "1245823270",
   "group_number": "1048541914",
-  "updated_at": "2026-09-22T02:05:46+00:00",
+  "updated_at": "2026-09-22T02:07:01+00:00",
   "skins": [
     {
       "name": "星月雪熊",
@@ -77,6 +77,13 @@
       "thumb": "古风雕花嵌螺钿妆匣无漂.bdi_py_26_light_thumb.png",
       "full": "古风雕花嵌螺钿妆匣无漂.bdi_py_26_light_thumb.png",
       "file_id": "d072f8404396ff5d290db46ab0d72845"
+    },
+    {
+      "name": "古风雕花嵌螺钿妆匣 无漂 ios26",
+      "file": "古风雕花嵌螺钿妆匣无漂ios26.bdi",
+      "thumb": "古风雕花嵌螺钿妆匣无漂ios26.bdi_py_26_light_thumb.png",
+      "full": "古风雕花嵌螺钿妆匣无漂ios26.bdi_py_26_light_thumb.png",
+      "file_id": "535b77cfa79b56b86c9356e50934fe30"
     }
   ]
 }
