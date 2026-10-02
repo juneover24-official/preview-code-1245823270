@@ -1,7 +1,7 @@
 {
   "qq_number": "1245823270",
   "group_number": "1048541914",
-  "updated_at": "2026-10-02T07:06:58+00:00",
+  "updated_at": "2026-10-02T07:07:03+00:00",
   "skins": [
     {
       "name": "星月雪熊",
@@ -96,6 +96,12 @@
       "file": "气泡水ios26.bdi",
       "thumb": "气泡水ios26.bdi_py_26_light_thumb.png",
       "full": "气泡水ios26.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "气泡水",
+      "file": "气泡水.bds",
+      "thumb": "气泡水.bds_py_26_light_thumb.png",
+      "full": "气泡水.bds_py_26_light_thumb.png"
     }
   ]
 }
